@@ -26,7 +26,7 @@ Once at the website right click anywhere on the screen. Select the inspect optio
 
 I,ve linked this screenshot to show what it looks like.
 
-![alt text] (screenshot(1) prework study guide.png)
+![alt text] (assets/images/screenshot(1) prework study guide.png)
 
 ## Credits
 
